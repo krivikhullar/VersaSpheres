@@ -1,4 +1,4 @@
-Versaspheres LLC
+# Versaspheres LLC
 Boutique Data & AI Consulting for Small and Mid-Sized Businesses
 
 Modern data tools, built for businesses that can't afford enterprise prices.
